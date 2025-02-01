@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\DoubleApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82E01A6E-2468-4522-88BC-924D8B6F016D}|DoubleApi\\DoubleApi.csproj|d:\\projects\\c#\\doubleapi\\doubleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E01A6E-2468-4522-88BC-924D8B6F016D}|DoubleApi\\DoubleApi.csproj|solutionrelative:doubleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A7C5986-CFAD-4C6F-8E3F-330CE3356BC8}|Client\\Client.csproj|d:\\projects\\c#\\doubleapi\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A7C5986-CFAD-4C6F-8E3F-330CE3356BC8}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\DoubleApi\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\DoubleApi\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAADgv7QAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:49:24.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\DoubleApi\\DoubleApi\\Program.cs",
+              "RelativeDocumentMoniker": "DoubleApi\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\DoubleApi\\DoubleApi\\Program.cs",
+              "RelativeToolTip": "DoubleApi\\Program.cs",
+              "ViewState": "AgIAAOABAAAAAAAAAAAgwM8BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:50:41.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
